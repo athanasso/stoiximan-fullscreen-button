@@ -20,7 +20,7 @@ A lightweight Chrome extension that adds a floating **Fullscreen** button to Sto
 1. **Clone this repository**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stoiximan-fullscreen-extension.git
+git clone https://github.com/athanasso/stoiximan-fullscreen-extension.git
 ```
 
 2. **Open Google Chrome and navigate to:**:
