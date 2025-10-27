@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Stoiximan Fullscreen Button",
+  "version": "1.0",
+  "description": "Adds a fullscreen button to Stoiximan live streams.",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.stoiximan.gr/*",
+        "*://*.stoiximan.com/*",
+        "*://*.stoiximan.com.cy/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}
