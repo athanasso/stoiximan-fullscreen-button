@@ -7,7 +7,7 @@ A lightweight Chrome extension that adds a floating **Fullscreen** button to Sto
 ## Features
 
 - Adds a floating fullscreen button on live stream videos.
-- Works on **Stoiximan GR** and **Stoiximan CY** domains.
+- Works on any small video output site that doesn't support fullscreen like stoiximan & novibet.
 - Simple, lightweight, and no personal data collected.
 - Works even on dynamically loaded video players.
 
