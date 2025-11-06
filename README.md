@@ -23,10 +23,14 @@ A lightweight Chrome extension that adds a floating **Fullscreen** button to Sto
 git clone https://github.com/athanasso/stoiximan-fullscreen-extension.git
 ```
 
-2. **Open Google Chrome and navigate to:**:
+2. **Change manifest**
+
+- Change the manifests sites to the ones that interest you
+
+3. **Open Google Chrome and navigate to:**:
 ```bash
 chrome://extensions/
 ```
-3. **Enable Developer mode (toggle at top-right).**
-4. **Click Load unpacked and select the folder containing the extension files (manifest.json, content.js).**
-5. **Open a Stoiximan live stream page — after a few seconds, the Fullscreen button should appear on the video.**
+4. **Enable Developer mode (toggle at top-right).**
+5. **Click Load unpacked and select the folder containing the extension files (manifest.json, content.js).**
+6. **Open a Stoiximan live stream page — after a few seconds, the Fullscreen button should appear on the video.**
