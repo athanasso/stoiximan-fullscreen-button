@@ -8,7 +8,8 @@
       "matches": [
         "*://*.stoiximan.gr/*",
         "*://*.stoiximan.com/*",
-        "*://*.stoiximan.com.cy/*"
+        "*://*.stoiximan.com.cy/*",
+        "*://*.novibet.gr/*"
       ],
       "js": ["content.js"]
     }
