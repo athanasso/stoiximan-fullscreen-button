@@ -1,6 +1,6 @@
-# Stoiximan Fullscreen Extention
+# Video to Fullscreen Extention
 
-A lightweight Chrome extension that adds a floating **Fullscreen** button to Stoiximan live streams, making it easy to watch your favorite matches in fullscreen mode.
+A lightweight Chrome extension that adds a floating **Fullscreen** button to small live video streams, making it easy to watch your favorite matches in fullscreen mode.
 
 ---
 
