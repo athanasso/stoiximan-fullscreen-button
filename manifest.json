@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Stoiximan Fullscreen Button",
+  "name": "Video to Fullscreen Button",
   "version": "1.0",
-  "description": "Adds a fullscreen button to Stoiximan live streams.",
+  "description": "Adds a fullscreen button to small video live streams.",
   "content_scripts": [
     {
       "matches": [
